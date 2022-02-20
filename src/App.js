@@ -34,7 +34,7 @@ const AnimatedTypingTitle = () => {
       {removeText()}
       <span className="second">WOWWWWWW</span>
       {removeText()}
-      <span className="third">Hi, I'm Newii.</span>
+      <span className="third">君の虜なってしまえばきっと この夏は充実するのもっと</span>
       {removeText()}
       <span className="third">Hmmmm.</span>
       {removeText()}
