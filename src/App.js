@@ -28,7 +28,7 @@ const AnimatedTypingTitle = () => {
   }
   return (
     <Typing loop={true}>
-      <span className="title">PHU CHAN</span>
+      <span className="title">dddd</span>
       {removeText()}
       <span className="first">Fc PHUICMT</span>
       {removeText()}
